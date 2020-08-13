@@ -17,3 +17,11 @@ https://www.aclweb.org/anthology/C18-1287.pdf
 
 Description of Claim Review, a factchecking centralized datafeed from a number of factchecking organizations:
 https://www.storybench.org/how-claimreview-is-simplifying-the-process-of-fact-checking/
+
+Video on using Keras to use sentiment analysis on IMDB reviews:
+https://www.coursera.org/learn/ai/lecture/hQYsN/recurrent-neural-networks
+ 
+Other  articles on classifying real/fake news:
+https://opendatascience.com/how-to-build-a-fake-news-classification-model/
+
+https://www.kaggle.com/anthonyc1/fake-news-classifier-final-project
