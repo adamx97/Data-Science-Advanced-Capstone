@@ -25,3 +25,8 @@ Other  articles on classifying real/fake news:
 https://opendatascience.com/how-to-build-a-fake-news-classification-model/
 
 https://www.kaggle.com/anthonyc1/fake-news-classifier-final-project
+
+FakeNewsNet scripts and description:
+https://github.com/KaiDMML/FakeNewsNet
+FakeNewsNet article using data above: 
+http://sbp-brims.org/2018/proceedings/papers/challenge_papers/SBP-BRiMS_2018_paper_120.pdf
