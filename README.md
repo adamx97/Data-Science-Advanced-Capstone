@@ -30,3 +30,14 @@ FakeNewsNet scripts and description:
 https://github.com/KaiDMML/FakeNewsNet
 FakeNewsNet article using data above: 
 http://sbp-brims.org/2018/proceedings/papers/challenge_papers/SBP-BRiMS_2018_paper_120.pdf
+
+A paper: “Liar, Liar Pants on Fire”:A New Benchmark Dataset for Fake News Detection
+“Liar, Liar Pants on Fire”:A New Benchmark Dataset for Fake News Detection William Yang Wang Department of Computer Science University of California, Santa BarbaraSanta Barbara, CA 93106 USAwilliam@cs.ucsb.edu
+
+Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Short Papers), pages 422–426Vancouver, Canada, July 30 - August 4, 2017.c©2017 Association for Computational Linguisticshttps://doi.org/10.18653/v1/P17-2067Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Short Papers), pages 422–426Vancouver, Canada, July 30 - August 4, 2017.c©2017 Association for Computational Linguisticshttps://doi.org/10.18653/v1/P17-2067
+
+https://www.aclweb.org/anthology/P17-2067.pdf
+
+Another paper using the same dataset:
+https://www.aclweb.org/anthology/W18-5513/
+
