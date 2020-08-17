@@ -42,8 +42,32 @@ https://www.aclweb.org/anthology/P17-2067.pdf
 Another paper using the same dataset:
 https://www.aclweb.org/anthology/W18-5513/
 
+
+The Data Challenge in Misinformation Detection:Source Reputation vs. Content Veracity
 Big Data and quality data for fake news and misinformation detection 
+ https://www.aclweb.org/anthology/W18-5502.pdf
+
+Contains a good discussion of the varieties of fake news and various modes of news bias through history.
 https://journals.sagepub.com/doi/full/10.1177/2053951719843310
+A paper discussing below datasets: 
 Misinfo dataset: https://github.com/sfu-discourse-lab/MisInfoText 
+https://github.com/sfu-discourse-lab/Misinformation_detection
+
+Asr FT, Taboada M (2019) | 1,380 news articles | 4-way (false, true, mixture, no factual content) | Collected using a pivot Buzzfeed dataset. 
+Focused on the US election topic. https://github.com/sfu-discourse-lab/Misinformation_detection/blob/master/buzzfeed-v02-originalLabels.txt.zip
+These stories have been scraped from the web, but are skewed towards true stories (The 1380 stories are labelled as follows: Mixed: 170, Mostly False: 64, Mostly True: 1090, No factual content: 56).  These stories also seem to be poor training material as they have been adulterated by the scraping process that seemed to merge words together, especially words with apostrophes (ex: "I hope youdon mind my asking, butI curious" was recorded, rather than "I hope you don't mind my asking, but I'm curious.") This doesn't seem to be a suitable dataset. 
+
+
+Asr FT, Taboada M (2019) | 33 news articles | 4-way (false, true, mixture, no factual content) | Collected using a pivot Buzzfeed dataset. 
+A variety of topics. https://github.com/sfu-discourse-lab/Misinformation_detection/blob/master/buzzfeed-top.csv.zip
+This selection from the top 50 Buzzfeed false stories has 34 stories, all are false, and contains story text that does not suffer from the adulteration described above.  
+
+Asr FT, Taboada M (2019) | 312 news articles | 5-way (false to true) | Collected from Snopes. Balanced by label. A variety of topics. Includes stance information (articles for or against a labeled claim). https://github.com/sfu-discourse-lab/Misinformation_detection/blob/master/snopes_checked_v02.csv.zip
+This is a collection of stories, as labelled by Snopes.com, with  full text that has not been adulterated by the scraping process.  The counts are: Mixed: 72, Mostly False: 53, False: 51, Mostly True: 72, True 65.
+
+
+
+
+
 
 
