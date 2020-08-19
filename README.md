@@ -1,5 +1,8 @@
 # Data-Science-Advanced-Capstone
 
+Teacher's github repo for this class:
+https://github.com/IBM/skillsnetwork/tree/master/coursera_capstone
+
 Some docs:
 * https://developer.ibm.com/articles/the-lightweight-ibm-cloud-garage-method-for-data-science/
 * https://developer.ibm.com/articles/data-science-architectural-decisions-guidelines/
