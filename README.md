@@ -68,6 +68,17 @@ This selection from the top 50 Buzzfeed false stories has 34 stories, all are fa
 Asr FT, Taboada M (2019) | 312 news articles | 5-way (false to true) | Collected from Snopes. Balanced by label. A variety of topics. Includes stance information (articles for or against a labeled claim). https://github.com/sfu-discourse-lab/Misinformation_detection/blob/master/snopes_checked_v02.csv.zip
 This is a collection of stories, as labelled by Snopes.com, with  full text that has not been adulterated by the scraping process.  The counts are: Mixed: 72, Mostly False: 53, False: 51, Mostly True: 72, True 65.
 
+Using a Relu activation function:
+Probably start with it by default and explore from there:
+https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+
+A Simple Way to Initialize Recurrent Networks of Rectified Linear Units
+https://arxiv.org/abs/1504.00941
+
+How to fix vanishing gradients problem:
+https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
+
+
 
 
 
