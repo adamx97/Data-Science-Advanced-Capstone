@@ -72,7 +72,7 @@ Using a Relu activation function:
 Probably start with it by default and explore from there:
 https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 
-A Simple Way to Initialize Recurrent Networks of Rectified Linear Units
+A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (LSTM is a kind of RNN)
 https://arxiv.org/abs/1504.00941
 
 How to fix vanishing gradients problem:
