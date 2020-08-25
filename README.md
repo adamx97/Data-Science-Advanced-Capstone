@@ -68,14 +68,18 @@ This selection from the top 50 Buzzfeed false stories has 34 stories, all are fa
 Asr FT, Taboada M (2019) | 312 news articles | 5-way (false to true) | Collected from Snopes. Balanced by label. A variety of topics. Includes stance information (articles for or against a labeled claim). https://github.com/sfu-discourse-lab/Misinformation_detection/blob/master/snopes_checked_v02.csv.zip
 This is a collection of stories, as labelled by Snopes.com, with  full text that has not been adulterated by the scraping process.  The counts are: Mixed: 72, Mostly False: 53, False: 51, Mostly True: 72, True 65.
 
-Using a Relu activation function:
+* Using a Relu activation function:
 Probably start with it by default and explore from there:
 https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 
-A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (LSTM is a kind of RNN)
+* A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (LSTM is a kind of RNN)
 https://arxiv.org/abs/1504.00941
 
-How to fix vanishing gradients problem:
+* Article on how to fix vanishing gradients problem:
+
+our initial models may suffer from this:
+"The vanishing gradients problem may be manifest in a Multilayer Perceptron by a slow rate of improvement of a model during training and perhaps premature convergence, e.g. continued training does not result in any further improvement. Inspecting the changes to the weights during training, we would see more change (i.e. more learning) occurring in the layers closer to the output layer and less change occurring in the layers close to the input layer."
+
 https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
 
 
