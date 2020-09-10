@@ -81,8 +81,8 @@ Our initial models may suffer from this:
 
 https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
 
-
-
+Feature engineering for various Text classification tasks:
+https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa
 
 
 
