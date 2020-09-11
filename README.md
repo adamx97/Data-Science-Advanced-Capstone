@@ -84,6 +84,11 @@ https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rect
 Feature engineering for various Text classification tasks:
 https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa
 
+Paper on detecting deception via faint linguistic signals:
+> Deception is a complex, pervasive, sometimes high-stakeshuman activity; while the linguistic implementation of de-ceptive acts by speakers is sometimes brazen,  sometimessubtle,  it is a curious fact that it is difficult for other hu-mans to detect,  and at any rate humans exhibit a distinctbias towards believing what they are told.3516
+Although human performance at detecting deception is atchance, this research and prior research suggest that the un-conscious linguistic signals included in a conscious act ofdeceiving are sufficient to allow us to build automatic sys-tems capable of successfully distinguishing deceptive documents.
+
+https://www.aclweb.org/anthology/L16-1558.pdf
 
 
 
