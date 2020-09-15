@@ -90,6 +90,14 @@ Although human performance at detecting deception is atchance, this research and
 
 https://www.aclweb.org/anthology/L16-1558.pdf
 
+### Convolutional Neural Networks for Sentence Classification
+"The model presented in the paper achieves good classification performance across a range of text classification tasks (like Sentiment Analysis) and has since become a standard baseline for new text classification architectures." 
+https://arxiv.org/pdf/1408.5882v2.pdf
+
+### Implementing a CNN for Text Classification in TensorFlow
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+
+
 
 
 
