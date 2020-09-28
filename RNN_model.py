@@ -1,8 +1,9 @@
 # https://github.com/Eligijus112/twitter-genuine-tweets/blob/master/RNN_model.py
 
 # Deep learning: 
-from keras.models import Input, Model
-from keras.layers import LSTM, Dense, Embedding, Dropout
+
+from tensorflow.keras import Input, Model
+from tensorflow.keras.layers import LSTM, Dense, Embedding, Dropout
 
 class RnnModel():
     """
@@ -20,6 +21,6 @@ class RnnModel():
         x = Dense(1, activation="sigmoid")(x)    
         model = Model(inputs=inp1, outputs=x)
 
-        model.compile(loss = 'binary_crossentropy', optimizer = 'adam')
+        model.compile(loss = 'binary_crossentropy', optimizer = 'adam', metrics=['accuracy'])
         self.model = model
      

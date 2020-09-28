@@ -1,7 +1,8 @@
 pipeline:
   k_fold: True
   save_results: True
+  save_model: True
   batch_size: 256
-  epochs: 7
+  epochs: 6
   max_len: 20
   
