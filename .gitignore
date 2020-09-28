@@ -1,0 +1,8 @@
+.venv/
+glove.6B.300d.txt
+Notes/
+__pycache__/
+Final Documents/~$ws Truthiness Architectural Decisions Document.docx
+Final Documents/~$TrueVsFakeNewsStakeholders.pptx
+Final Documents/Lightweight_IBM Cloud_Garage_Method_for_Data_Science_ADD_Template.docx
+.vscode/settings.json
