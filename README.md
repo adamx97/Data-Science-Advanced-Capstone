@@ -98,6 +98,9 @@ https://arxiv.org/pdf/1408.5882v2.pdf
 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
 
 
+This repo was needed for classmates to see and grade my work.
+
+
 
 
 
